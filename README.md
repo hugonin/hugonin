@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there👋🏾
 
-I'm Jean-Hugues a self-taught developer with a background as a test engineer. I have a passion for technology and building apps just for fun or solving problems fills me with joy. I have a good mastery of Javascript and React is a framework that I likes a lot.
+I'm Jean-Hugues a self-taught developer with a background as a test engineer. I like learning new things and building apps just for fun or for solving problems fills me with joy. I have skills in Javascript and I'm getting  good with React.
 
 I'm self driven, hard working and an easy going person. I also hold a master degree.
 
