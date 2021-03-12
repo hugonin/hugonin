@@ -4,7 +4,7 @@ I'm Jean-Hugues a self-taught developer with a background as a test engineer. I 
 
 I'm self driven, hard working and an easy going person. I also hold a master degree.
 
-I’m currently enrolled in the Udacity Front End Web Developer nanodegree program, completing a variety of projects for my next portfolio.
+I’m currently completing a variety of projects for my next portfolio.
 
 
 ### Technical skills:
