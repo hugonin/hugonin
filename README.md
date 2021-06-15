@@ -1,10 +1,10 @@
 ### Hi there👋🏾
 
-I'm Jean-Hugues a self-taught developer with a background as a test engineer. I like learning new things and building apps just for fun or for solving problems fills me with joy. I have skills in Javascript and I'm getting  good with React.
+I'm Jean-Hugues a self-taught developer with a background as a test engineer. I like learning new things and building apps just for fun or for solving problems fills me with joy. I have skills in Javascript and React is a framework that I like to work with.
 
 I'm self driven, hard working and an easy going person. I also hold a master degree.
 
-I’m currently completing a variety of projects for my next portfolio.
+I’m currently enrolled in an internship program with the aim to become a better software developer
 
 
 ### Technical skills:
@@ -12,7 +12,7 @@ I’m currently completing a variety of projects for my next portfolio.
 **Languages:**
 
 * Javascript
-* Python
+* Java
 
 **Front-end:**
 
@@ -25,9 +25,10 @@ I’m currently completing a variety of projects for my next portfolio.
 **Back-end:**
 
 * MongoDB
+* SQL
 * Node JS
 * Express
-* Django
+
 
 <!--
 **hugonin/hugonin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
