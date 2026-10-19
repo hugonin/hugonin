@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 I'm a test engineer turned web developer<br>🧑🏾‍🤝‍🧑🏾 I’m good at working with people and would like to collaborate on some major projects<br>📗 I’ve just finished a year and half apprenticeship program to obtain an IT master's degree<br>
+💻 I'm a test engineer<br>🧑🏾‍🤝‍🧑🏾 I’m good at working with people and would like to collaborate on some major projects<br>
 
 
 ## 🌐 Socials:
